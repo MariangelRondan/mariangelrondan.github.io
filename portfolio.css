@@ -1,0 +1,99 @@
+body{
+    background-image: url(/tumor-azul-revela-enfermedad-alzheimer-cerebro-humano-generado-ia.jpg);
+    background-repeat: no-repeat;
+    background-position: initial;
+    background-size: cover;
+   
+}
+
+   
+.contenedor-imagen {
+    display: flex;
+    justify-content: center;
+    backdrop-filter: blur(5px);
+  }
+
+.contenedor-imagen img {
+    width: 25%; /* Ajusta el ancho deseado */
+    height: auto; /* La altura se ajusta automáticamente de manera proporcional */
+    margin: 0 auto; 
+}
+
+h1{
+    text-align: center;
+color: aliceblue;
+font-family: serif;
+}
+
+p#aboutme{
+    text-align: center;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    backdrop-filter: blur(7px);
+}
+h2 {
+text-align: center;
+color: aliceblue;
+font-family: serif;
+}
+
+hr {
+    
+    width: 30%;
+}
+h3 {
+    text-align: center;
+    color: aliceblue;
+    font-family: sans-serif;
+    }
+
+a.accesos:hover {
+    background-color: rebeccapurple ;
+    text-decoration: underline; 
+    font-size: 1.2em;
+  
+
+}
+
+a.accesos{
+    align-items: center;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+p.trabajitos{
+    color: aliceblue;
+    font-family: sans-serif;
+    justify-content: center;
+    display: flex;
+}
+
+h1 #contact{
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.fruta{
+    color: aliceblue;
+    font-family: sans-serif;
+        padding: 2rem 3rem;
+        text-align: center;
+        box-shadow: 20px 20px 100px #222;
+        backdrop-filter: blur(7px);
+        border: 3px solid color(srgb red green blue);
+      }
+
+a.back:hover{
+    text-decoration: underline; 
+    font-size: 1.5em;
+
+}
